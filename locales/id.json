@@ -1,0 +1,14 @@
+{
+  "Metadata": {
+    "title": "Selamat datang di situs web"
+  },
+  "Home": {
+    "started": "Mulai dengan mengedit",
+    "save": "Simpan dan lihat perubahan Anda secara instan.",
+    "deploy": "Deploy sekarang",
+    "docs": "Baca dokumentasi kami",
+    "learn": "Pelajari",
+    "examples": "Contoh",
+    "navigate": "Pergi ke"
+  }
+}
